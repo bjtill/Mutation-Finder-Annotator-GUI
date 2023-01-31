@@ -1,5 +1,5 @@
 # Mutation-Finder-Annotator
-A tool to facilitate induced mutations from sequencing data
+A tool with graphical user interface to facilitate finding and annotating induced mutations from sequencing data
 ____________________________________________________________
 
 Use at your own risk.
