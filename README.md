@@ -18,9 +18,12 @@ PREREQUISITES:
 4) The following tools installed: SnpEff, SnpSift, Java, bash, zenity, awk, tr, datamash, bcftools. This GUI program was built to run on Ubuntu 20.04 and higher. See installation notes about running on other systems.  
 
 INSTALLATION: 
+
 Linux/Ubuntu: Download and uncompress the SppEff package.  All other tools can be installed in the linx command line by typing the name of the tool and following the instructions if not already installed.  Downlaod the .sh file and provide it permission to execute using chmod +x .
 
+Mac:
 
+Windows: *NOT TESTED*  In theory you can install linux bash shell on Windows (https://itsfoss.com/install-bash-on-windows/) and install the dependecies from the command line (except for SnpEff and SnpSit). If you try this and it works, please let me know. I don't have a Windows machine for testing.  
 
 
 
