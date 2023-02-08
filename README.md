@@ -19,13 +19,16 @@ PREREQUISITES:
 
 INSTALLATION: 
 
-Linux/Ubuntu: Download and uncompress the SppEff package.  All other tools can be installed in the linx command line by typing the name of the tool and following the instructions if not already installed.  Downlaod the .sh file and provide it permission to execute using chmod +x .
+Linux/Ubuntu: Download and uncompress the SppEff package.  All other tools can be installed in the Linx command line by typing the name of the tool. Either version information if already installed, or installation instructions if not installed.  Downlaod the .sh file from this page and provide it permission to execute using chmod +x .
 
-Mac:
+Mac: Download and uncompress the SppEff package. Install homebrew from the terminal window. Next, install other tools using brew install from the terminal (for example brew install bcftools).  The tools are: bcftools, datamash, and zenity. ALso install Java JDK.  Note: zenity will take a long time to install. You may want to consider testing the CLI version (link here) first. Installation is the same except for zenity.    
 
-Windows: *NOT TESTED*  In theory you can install linux bash shell on Windows (https://itsfoss.com/install-bash-on-windows/) and install the dependecies from the command line (except for SnpEff and SnpSit). If you try this and it works, please let me know. I don't have a Windows machine for testing.  
+Windows: *NOT TESTED*  In theory you can install Linux bash shell on Windows (https://itsfoss.com/install-bash-on-windows/) and install the dependecies from the command line (except for SnpEff and SnpSit). If you try this and it works, please let me know. I don't have a Windows machine for testing.  
 
+EXAMPLE DATA:
 
+Example data can be found in the directory MFA_Example_Data.  Information on the samples is found in the enclosed read.me file.  Note that you must first install (Oryza_sativa) or build (Coffee) the SnpEff genome database before you run this tool.  
 
 TO RUN:
+
 Launch in a terminal window using ./  A graphical window will appear with information. Click OK to start. When prompted, enter the name for your analysis directory. A new directory will be created and the files created will be deposited in the directory.  Follow the information to select files and start the program.  
