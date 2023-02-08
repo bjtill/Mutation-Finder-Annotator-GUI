@@ -1,4 +1,4 @@
-# Mutation-Finder-Annotator
+# Mutation-Finder-Annotator GUI 
 A tool with graphical user interface to facilitate finding and annotating induced mutations from sequencing data
 ____________________________________________________________
 
