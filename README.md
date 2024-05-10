@@ -8,7 +8,12 @@ I cannot provide support.
 All information obtained/inferred with this script is without any
 implied warranty of fitness for any purpose or use whatsoever.
 
+PLEASE USE THE FOLLOWING CITATION: 
+
+Till BJ, Jiménez-Madrigal JP, Gatica-Arias A. Identification of Novel Induced Mutations in Seed and Vegetatively Propagated Plants from Reduced Representation or Whole Genome Sequencing Data. Methods Mol Biol. 2024;2787:123-139. doi: 10.1007/978-1-0716-3778-4_8.
+
 ABOUT: 
+
 This program identifies DNA sequence variants unique to one or more selected samples preset in a multi-sample VCF file. Both heterozygous and homozygous alternative alleles are returned in a new VCF file titled output.vcf. Putative induced mutations are next annotated using the program SnpEff producing the following files: annotated_output.vcf, snpEff_genes.txt, snpEff_summary.html.
 
 PREREQUISITES:
